@@ -18,3 +18,5 @@
 -- | 4  | ted       | balashov  |
 -- TODO: Write a select statement below the commented lines that retrieves all
 --  records from the Person table.
+
+SELECT * FROM Person;

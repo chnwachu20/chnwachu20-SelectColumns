@@ -15,3 +15,5 @@
 --  name for a column using the `as` keyword, such as `name as petname`.
 -- TODO: write a SQL statement below which retrieves only the 'firstname' and
 --  'lastname' columns from the Person table.
+
+SELECT firstname,lastname FROM Person;
